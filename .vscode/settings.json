@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "gluon/": "",
-        "DoAlignmentTB2.C": "cpp"
+        "DoAlignmentTB2.C": "cpp",
+        "DoAlignment.C": "cpp",
+        "TriangleFunction.C": "cpp"
     }
 }

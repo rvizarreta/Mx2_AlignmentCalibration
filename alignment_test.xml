@@ -1,0 +1,306 @@
+<DDDB>
+  <condition classID="6" name="Module001_Plane1">
+    <paramVector name="dPosXYZ" type="double">4.582566 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.003522</paramVector>
+  </condition>
+  <condition classID="6" name="Module001_Plane2">
+    <paramVector name="dPosXYZ" type="double">2.011104 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.002344</paramVector>
+  </condition>
+  <condition classID="6" name="Module002_Plane1">
+    <paramVector name="dPosXYZ" type="double">-1.604452 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001254</paramVector>
+  </condition>
+  <condition classID="6" name="Module002_Plane2">
+    <paramVector name="dPosXYZ" type="double">-0.706969 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000664</paramVector>
+  </condition>
+  <condition classID="6" name="Module003_Plane1">
+    <paramVector name="dPosXYZ" type="double">-0.666720 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001151</paramVector>
+  </condition>
+  <condition classID="6" name="Module003_Plane2">
+    <paramVector name="dPosXYZ" type="double">-3.186616 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.003151</paramVector>
+  </condition>
+  <condition classID="6" name="Module004_Plane1">
+    <paramVector name="dPosXYZ" type="double">-0.332216 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001790</paramVector>
+  </condition>
+  <condition classID="6" name="Module004_Plane2">
+    <paramVector name="dPosXYZ" type="double">2.511933 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000474</paramVector>
+  </condition>
+  <condition classID="6" name="Module005_Plane1">
+    <paramVector name="dPosXYZ" type="double">-2.912365 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001134</paramVector>
+  </condition>
+  <condition classID="6" name="Module005_Plane2">
+    <paramVector name="dPosXYZ" type="double">-3.727791 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001067</paramVector>
+  </condition>
+  <condition classID="6" name="Module006_Plane1">
+    <paramVector name="dPosXYZ" type="double">0.415871 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000140</paramVector>
+  </condition>
+  <condition classID="6" name="Module006_Plane2">
+    <paramVector name="dPosXYZ" type="double">-1.216460 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000481</paramVector>
+  </condition>
+  <condition classID="6" name="Module007_Plane1">
+    <paramVector name="dPosXYZ" type="double">2.358229 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000606</paramVector>
+  </condition>
+  <condition classID="6" name="Module007_Plane2">
+    <paramVector name="dPosXYZ" type="double">5.647016 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001039</paramVector>
+  </condition>
+  <condition classID="6" name="Module008_Plane1">
+    <paramVector name="dPosXYZ" type="double">1.664012 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000684</paramVector>
+  </condition>
+  <condition classID="6" name="Module008_Plane2">
+    <paramVector name="dPosXYZ" type="double">4.857057 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000997</paramVector>
+  </condition>
+  <condition classID="6" name="Module009_Plane1">
+    <paramVector name="dPosXYZ" type="double">-2.222903 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.003092</paramVector>
+  </condition>
+  <condition classID="6" name="Module009_Plane2">
+    <paramVector name="dPosXYZ" type="double">-8.658961 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001641</paramVector>
+  </condition>
+  <condition classID="6" name="Module010_Plane1">
+    <paramVector name="dPosXYZ" type="double">-0.130538 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001817</paramVector>
+  </condition>
+  <condition classID="6" name="Module010_Plane2">
+    <paramVector name="dPosXYZ" type="double">2.042400 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000660</paramVector>
+  </condition>
+  <condition classID="6" name="Module011_Plane1">
+    <paramVector name="dPosXYZ" type="double">0.656921 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001533</paramVector>
+  </condition>
+  <condition classID="6" name="Module011_Plane2">
+    <paramVector name="dPosXYZ" type="double">-1.020870 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000662</paramVector>
+  </condition>
+  <condition classID="6" name="Module012_Plane1">
+    <paramVector name="dPosXYZ" type="double">-1.721971 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000283</paramVector>
+  </condition>
+  <condition classID="6" name="Module012_Plane2">
+    <paramVector name="dPosXYZ" type="double">3.067672 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.003117</paramVector>
+  </condition>
+  <condition classID="6" name="Module013_Plane1">
+    <paramVector name="dPosXYZ" type="double">2.026832 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000889</paramVector>
+  </condition>
+  <condition classID="6" name="Module013_Plane2">
+    <paramVector name="dPosXYZ" type="double">3.171418 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001725</paramVector>
+  </condition>
+  <condition classID="6" name="Module014_Plane1">
+    <paramVector name="dPosXYZ" type="double">-0.064577 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000322</paramVector>
+  </condition>
+  <condition classID="6" name="Module014_Plane2">
+    <paramVector name="dPosXYZ" type="double">-2.034645 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001188</paramVector>
+  </condition>
+  <condition classID="6" name="Module015_Plane1">
+    <paramVector name="dPosXYZ" type="double">0.840580 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000384</paramVector>
+  </condition>
+  <condition classID="6" name="Module015_Plane2">
+    <paramVector name="dPosXYZ" type="double">-1.635903 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001111</paramVector>
+  </condition>
+  <condition classID="6" name="Module016_Plane1">
+    <paramVector name="dPosXYZ" type="double">1.550704 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001730</paramVector>
+  </condition>
+  <condition classID="6" name="Module016_Plane2">
+    <paramVector name="dPosXYZ" type="double">1.338917 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001736</paramVector>
+  </condition>
+  <condition classID="6" name="Module017_Plane1">
+    <paramVector name="dPosXYZ" type="double">-2.934924 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000414</paramVector>
+  </condition>
+  <condition classID="6" name="Module017_Plane2">
+    <paramVector name="dPosXYZ" type="double">-0.472752 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000766</paramVector>
+  </condition>
+  <condition classID="6" name="Module018_Plane1">
+    <paramVector name="dPosXYZ" type="double">-2.543695 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000519</paramVector>
+  </condition>
+  <condition classID="6" name="Module018_Plane2">
+    <paramVector name="dPosXYZ" type="double">0.162016 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001457</paramVector>
+  </condition>
+  <condition classID="6" name="Module019_Plane1">
+    <paramVector name="dPosXYZ" type="double">-1.421671 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000335</paramVector>
+  </condition>
+  <condition classID="6" name="Module019_Plane2">
+    <paramVector name="dPosXYZ" type="double">-1.013832 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000394</paramVector>
+  </condition>
+  <condition classID="6" name="Module020_Plane1">
+    <paramVector name="dPosXYZ" type="double">-2.173773 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000835</paramVector>
+  </condition>
+  <condition classID="6" name="Module020_Plane2">
+    <paramVector name="dPosXYZ" type="double">3.659450 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.002572</paramVector>
+  </condition>
+  <condition classID="6" name="Module021_Plane1">
+    <paramVector name="dPosXYZ" type="double">-0.051143 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001016</paramVector>
+  </condition>
+  <condition classID="6" name="Module021_Plane2">
+    <paramVector name="dPosXYZ" type="double">0.559259 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.002340</paramVector>
+  </condition>
+  <condition classID="6" name="Module022_Plane1">
+    <paramVector name="dPosXYZ" type="double">-1.863772 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.002388</paramVector>
+  </condition>
+  <condition classID="6" name="Module022_Plane2">
+    <paramVector name="dPosXYZ" type="double">-1.667198 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.002362</paramVector>
+  </condition>
+  <condition classID="6" name="Module023_Plane1">
+    <paramVector name="dPosXYZ" type="double">-2.120960 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000808</paramVector>
+  </condition>
+  <condition classID="6" name="Module023_Plane2">
+    <paramVector name="dPosXYZ" type="double">-0.448619 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.004238</paramVector>
+  </condition>
+  <condition classID="6" name="Module024_Plane1">
+    <paramVector name="dPosXYZ" type="double">0.369311 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001643</paramVector>
+  </condition>
+  <condition classID="6" name="Module024_Plane2">
+    <paramVector name="dPosXYZ" type="double">1.419525 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000046</paramVector>
+  </condition>
+  <condition classID="6" name="Module025_Plane1">
+    <paramVector name="dPosXYZ" type="double">2.414628 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001764</paramVector>
+  </condition>
+  <condition classID="6" name="Module025_Plane2">
+    <paramVector name="dPosXYZ" type="double">-1.457695 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001239</paramVector>
+  </condition>
+  <condition classID="6" name="Module026_Plane1">
+    <paramVector name="dPosXYZ" type="double">0.704399 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.002348</paramVector>
+  </condition>
+  <condition classID="6" name="Module026_Plane2">
+    <paramVector name="dPosXYZ" type="double">1.874988 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001142</paramVector>
+  </condition>
+  <condition classID="6" name="Module027_Plane1">
+    <paramVector name="dPosXYZ" type="double">0.187398 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.002095</paramVector>
+  </condition>
+  <condition classID="6" name="Module027_Plane2">
+    <paramVector name="dPosXYZ" type="double">2.200674 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.002343</paramVector>
+  </condition>
+  <condition classID="6" name="Module028_Plane1">
+    <paramVector name="dPosXYZ" type="double">0.104192 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001461</paramVector>
+  </condition>
+  <condition classID="6" name="Module028_Plane2">
+    <paramVector name="dPosXYZ" type="double">0.521285 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000417</paramVector>
+  </condition>
+  <condition classID="6" name="Module029_Plane1">
+    <paramVector name="dPosXYZ" type="double">0.833482 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000975</paramVector>
+  </condition>
+  <condition classID="6" name="Module029_Plane2">
+    <paramVector name="dPosXYZ" type="double">-6.508237 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000136</paramVector>
+  </condition>
+  <condition classID="6" name="Module030_Plane1">
+    <paramVector name="dPosXYZ" type="double">1.066316 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001052</paramVector>
+  </condition>
+  <condition classID="6" name="Module030_Plane2">
+    <paramVector name="dPosXYZ" type="double">3.421167 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001890</paramVector>
+  </condition>
+  <condition classID="6" name="Module031_Plane1">
+    <paramVector name="dPosXYZ" type="double">-1.720956 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.002453</paramVector>
+  </condition>
+  <condition classID="6" name="Module031_Plane2">
+    <paramVector name="dPosXYZ" type="double">-3.049326 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000322</paramVector>
+  </condition>
+  <condition classID="6" name="Module032_Plane1">
+    <paramVector name="dPosXYZ" type="double">2.859389 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000839</paramVector>
+  </condition>
+  <condition classID="6" name="Module032_Plane2">
+    <paramVector name="dPosXYZ" type="double">0.554204 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.002846</paramVector>
+  </condition>
+  <condition classID="6" name="Module033_Plane2">
+    <paramVector name="dPosXYZ" type="double">-0.173740 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.003562</paramVector>
+  </condition>
+  <condition classID="6" name="Module034_Plane2">
+    <paramVector name="dPosXYZ" type="double">0.845926 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.004230</paramVector>
+  </condition>
+  <condition classID="6" name="Module035_Plane2">
+    <paramVector name="dPosXYZ" type="double">-1.207727 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001441</paramVector>
+  </condition>
+  <condition classID="6" name="Module036_Plane2">
+    <paramVector name="dPosXYZ" type="double">-0.400585 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001417</paramVector>
+  </condition>
+  <condition classID="6" name="Module037_Plane2">
+    <paramVector name="dPosXYZ" type="double">1.864788 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.001137</paramVector>
+  </condition>
+  <condition classID="6" name="Module038_Plane2">
+    <paramVector name="dPosXYZ" type="double">1.607228 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000983</paramVector>
+  </condition>
+  <condition classID="6" name="Module039_Plane2">
+    <paramVector name="dPosXYZ" type="double">0.162537 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.002175</paramVector>
+  </condition>
+  <condition classID="6" name="Module040_Plane2">
+    <paramVector name="dPosXYZ" type="double">-0.393232 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000076</paramVector>
+  </condition>
+  <condition classID="6" name="Module041_Plane2">
+    <paramVector name="dPosXYZ" type="double">-0.533340 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.001422</paramVector>
+  </condition>
+  <condition classID="6" name="Module042_Plane2">
+    <paramVector name="dPosXYZ" type="double">-2.110695 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.000494</paramVector>
+  </condition>
+  <condition classID="6" name="Module043_Plane2">
+    <paramVector name="dPosXYZ" type="double">1.548064 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 0.000290</paramVector>
+  </condition>
+  <condition classID="6" name="Module044_Plane2">
+    <paramVector name="dPosXYZ" type="double">-2.436697 0 0</paramVector>
+    <paramVector name="dRotXYZ" type="double">0 0 -0.002303</paramVector>
+  </condition>
+</DDDB>

@@ -1,3 +1,7 @@
+<!-- Generated on 12/20/23 from tuples with no alignment applied -->
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE DDDB SYSTEM "../../../DTD/structure.dtd">
 <DDDB>
   <condition classID="6" name="Module001_Plane1">
     <paramVector name="dPosXYZ" type="double">4.582566 0 0</paramVector>

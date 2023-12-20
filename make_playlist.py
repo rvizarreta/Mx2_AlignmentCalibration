@@ -32,6 +32,8 @@ rundir = prefix+"/"
 print 'rundir:' + rundir
 list = os.listdir(rundir)
 list.sort()
+# Ignore opts file
+list = list[1:]
 # Creating playlist register for each ntuple
 print(list)
 for ntuple in list:

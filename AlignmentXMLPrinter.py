@@ -6,6 +6,8 @@ print '<?xml version="1.0" encoding="ISO-8859-1"?>'
 print '<!DOCTYPE DDDB SYSTEM "../../../DTD/structure.dtd">'
 xml_playlist = open('alignment.xml', 'w')
 print '<DDDB>'
+xml_playlist.write('<?xml version="1.0" encoding="ISO-8859-1"?>' + '\n')
+xml_playlist.write('<!DOCTYPE DDDB SYSTEM "../../../DTD/structure.dtd">' + '\n')
 xml_playlist.write('<DDDB>' + '\n')
 file = open('AlignmentConstants.txt')
 for line in file:
